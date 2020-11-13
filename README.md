@@ -75,4 +75,4 @@ By [Yashwant](https://github.com/meyash)
 ## Version Guidance
 | ReDoc Release | OpenAPI Specification |
 |:--------------|:----------------------|
-| 0.0.1         | TOPSIS INIT           |
+| 1.0.1         | TOPSIS INIT           |

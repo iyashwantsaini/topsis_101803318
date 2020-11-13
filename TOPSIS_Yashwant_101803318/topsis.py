@@ -3,7 +3,7 @@ import os
 import sys
 
 name = "TOPSIS_Yashwant_101803318/TOPSIS_Yashwant_101803318"
-__version__ = "0.0.1"
+__version__ = "1.0.1"
 __author__ = 'Yashwant'
 __credits__ = 'TIET'
 

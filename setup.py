@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="TOPSIS_Yashwant_101803318",
-    version="1.0.0",
+    version="1.0.1",
     author="Yashwant",
     author_email="yashsn2127@gmail.com",
     description="A Topsis package that takes inputs as CSV and generates scores in results CSV!",
