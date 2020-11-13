@@ -2,13 +2,7 @@ import pandas as pd
 import os
 import sys
 
-name = "TOPSIS_Yashwant_101803318/TOPSIS_Yashwant_101803318"
-__version__ = "1.0.1"
-__author__ = 'Yashwant'
-__credits__ = 'TIET'
-
-
-def main():
+def topsis():
     # Arguments not equal to 5
     if len(sys.argv) != 5:
         print("ERROR : NUMBER OF PARAMETERS")
@@ -115,5 +109,5 @@ def topsis_pipy(temp_dataset, dataset, nCol, weights, impact):
     dataset.to_csv(sys.argv[4], index=False)
 
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     topsis()
