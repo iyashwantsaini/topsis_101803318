@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="Topsis_Yashwant_101803318",
+    name="TOPSIS_Yashwant_101803318",
     version="1.0.0",
     author="Yashwant",
     author_email="yashsn2127@gmail.com",
